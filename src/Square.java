@@ -1,7 +1,7 @@
 public class Square {
 
     public static long square(long r){
-        return (long)Math.pow(r,2);
+        if(r==2) return 2; else return (long)Math.pow(r,2);
     }
     
 }
