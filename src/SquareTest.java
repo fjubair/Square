@@ -1,8 +1,6 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
-import java.beans.Transient;
-
 import org.junit.Test;
 import org.junit.platform.commons.annotation.Testable;
 
